@@ -1,4 +1,5 @@
 import requests
+import selenium
 from bs4 import BeautifulSoup
 import csv
 
@@ -46,3 +47,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
